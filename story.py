@@ -19,9 +19,16 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+<<<<<<< HEAD
 
 def center_path():
     print(" You head forward and find a regular path.")
 
+=======
+    print("You brace yourself for battle")
+    print("Suddenly another squirrel jumps from behind you and sticks a gem in your palm")
+    print("You feel something pulling inside you......")
+    
+>>>>>>> villain-path
 if __name__ == "__main__":
     intro()

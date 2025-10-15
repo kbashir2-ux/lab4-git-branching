@@ -15,8 +15,13 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
+<<<<<<< HEAD
 - `hero-path`: _[Added a center path in Main. Then created actions to defeat a dragon in hero-path]_
 - `villain-path`: _[Describe your changes here]_
+=======
+- `hero-path`: _[Describe your changes here]_
+- `villain-path`: _[Created a villain path, made 2 commits to cause corruption]_
+>>>>>>> villain-path
 
 ## Final Checklist
 
