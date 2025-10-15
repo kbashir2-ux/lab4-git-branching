@@ -10,11 +10,20 @@ Branches in this repo (with details):
     452781e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-15T00:21:17Z | Auto-update branch-info.txt
     bdf742c | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:20:04-04:00 | Merge branch 'main' of github.com:kbashir2-ux/lab4-git-branching UH
 - main
-  SHA: 67016427df39dcb733480aed6caab489867fa0b4
-  Commits: 12
+  SHA: 912fb2c395c2c2058f54d175f81333283d87bd12
+  Commits: 13
   Recent commits:
+    912fb2c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-15T00:36:19Z | Auto-update branch-info.txt
     6701642 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-14T20:36:12-04:00 | Merge pull request #1 from kbashir2-ux/hero-path
     4b0008e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-15T00:35:28Z | Auto-update branch-info.txt
     28db652 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:31:51-04:00 | updated hero-path
     09e6cf2 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:30:47-04:00 | Defeat the Dragon
-    30a40d5 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:30:10-04:00 | Picked up the sword
+- villain-path
+  SHA: efef370e866b4e19e1c2ec865c1824b7185098d8
+  Commits: 5
+  Recent commits:
+    efef370 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-15T01:02:09Z | updated villain path description
+    40a8c8f | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-15T01:01:08Z | corruption..
+    3011187 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-15T01:00:41Z | prepare for duel
+    6c713d2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T13:31:36Z | Auto-update branch-info.txt
+    d6d4277 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T09:31:19-04:00 | Initial commit
