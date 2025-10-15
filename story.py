@@ -11,7 +11,6 @@ def intro():
     else:
         print("You stand still, unsure what to do. The forest swallows you.")
 
-#hi@hi
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You pick up the sword easily, watching it glisten in the sun.")
@@ -26,6 +25,3 @@ def center_path():
 
 if __name__ == "__main__":
     intro()
-
-
-#edits edits edits!!!
