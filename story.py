@@ -14,6 +14,8 @@ def left_path():
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
     print("You brace yourself for battle")
+    print("Suddenly another squirrel jumps from behind you and sticks a gem in your palm")
+    print("You feel something pulling inside you......")
     
 if __name__ == "__main__":
     intro()
