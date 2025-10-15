@@ -15,6 +15,8 @@ def intro():
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You pick up the sword easily, watching it glisten in the sun.")
+    print("Looking to your right you suddenly see a DRAGON.... beetle.")
+    print("You squash it, heroicly defeating the vile creature")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
