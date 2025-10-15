@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: _[Created a villain path, made 2 commits to cause corruption]_
 
 ## Final Checklist
 
