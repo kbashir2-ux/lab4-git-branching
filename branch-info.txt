@@ -10,11 +10,11 @@ Branches in this repo (with details):
     452781e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-15T00:21:17Z | Auto-update branch-info.txt
     bdf742c | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:20:04-04:00 | Merge branch 'main' of github.com:kbashir2-ux/lab4-git-branching UH
 - main
-  SHA: 452781e25eef9b90b81870153dab6b10a95d69db
-  Commits: 7
+  SHA: 67016427df39dcb733480aed6caab489867fa0b4
+  Commits: 12
   Recent commits:
-    452781e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-15T00:21:17Z | Auto-update branch-info.txt
-    bdf742c | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:20:04-04:00 | Merge branch 'main' of github.com:kbashir2-ux/lab4-git-branching UH
-    d4f1b3c | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T19:42:08-04:00 | Added a center path
-    c93e351 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-14T22:39:29Z | Auto-update branch-info.txt
-    38df497 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T15:16:03-04:00 | Added center
+    6701642 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-14T20:36:12-04:00 | Merge pull request #1 from kbashir2-ux/hero-path
+    4b0008e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-15T00:35:28Z | Auto-update branch-info.txt
+    28db652 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:31:51-04:00 | updated hero-path
+    09e6cf2 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:30:47-04:00 | Defeat the Dragon
+    30a40d5 | Author: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Committer: Khadijah Bashir <232601918+kbashir2-ux@users.noreply.github.com> | Date: 2025-10-14T20:30:10-04:00 | Picked up the sword
